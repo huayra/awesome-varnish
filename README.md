@@ -362,3 +362,6 @@ The A-list of awesome Varnish and VCL related software, libraries, tools and res
        14 commits, last change: , 9 stars, 1 forks
 <!-- PROJECTS_LIST_END -->
 
+
+## En Español
+  - http://www.sromero.org/wiki/linux/servicios/varnish_basico
