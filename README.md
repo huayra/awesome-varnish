@@ -365,3 +365,4 @@ The A-list of awesome Varnish and VCL related software, libraries, tools and res
 
 ## En Español
   - http://www.sromero.org/wiki/linux/servicios/varnish_basico
+  - http://www.slideshare.net/irontec/introduccin-a-varnish-cache-irontec (OUTDATED only for varnish 2.1 and 3.0)
